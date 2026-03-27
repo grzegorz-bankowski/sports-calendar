@@ -1,0 +1,3 @@
+I used AI to:
+- optimise database queries
+- retrieve sports categories and associated teams and pass them to the JavaScript code in the ‘Add event’ form

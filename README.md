@@ -6,7 +6,7 @@
 
 # Sports calendar
 
-Sports calendar is a microapp, where users can see future sports events and add new also.
+Sports calendar is a microapp, where users can see future sports events and add new also. The database uses three tables: events, teams and categories. The venue place is retrieved from the “ground” field in the “teams” table for the team hosting the event.
 
 ## Requirements
 
